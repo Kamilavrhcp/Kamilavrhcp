@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá! Eu sou a Kamila, moro em Minas Gerais.
 
-<!--
-**Kamilavrhcp/Kamilavrhcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu tenho como objetivo no GitHub aumentar a minha rede de contatos, aprender e ensinar. 
+Eu sou formada em letras e atuo como professora de língua portuguesa e pretendo me especializar em Linguística Computacional.
+Ano que vem eu me formarei em Tecnologia da Informação. Além disso, tenho interesse também na área Ambiental.
 
-Here are some ideas to get you started:
+Formação Acadêmica:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Técnico em Meio Ambiente;
+- Curso superior em Letras;
+- Gestão de Tecnologia da Informaçã (carregando...)
+
+👋
+
+
+
+
+
