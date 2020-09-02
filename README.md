@@ -8,7 +8,7 @@ Formação Acadêmica:
 
 - Técnico em Meio Ambiente;
 - Curso superior em Letras;
-- Gestão de Tecnologia da Informaçã (carregando...)
+- Gestão de Tecnologia da Informação (carregando...)
 
 👋
 
