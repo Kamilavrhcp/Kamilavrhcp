@@ -6,9 +6,10 @@ Ano que vem eu me formarei em Tecnologia da Informação. Além disso, tenho int
 
 Formação Acadêmica:
 
-- Técnico em Meio Ambiente;
+-Trybe (carregando...)
+- Gestão de Tecnologia da Informação (carregando 3/4)
 - Curso superior em Letras;
-- Gestão de Tecnologia da Informação (carregando...)
+- Técnico em Meio Ambiente;
 
 👋
 
