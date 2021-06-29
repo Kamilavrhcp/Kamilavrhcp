@@ -7,12 +7,8 @@ Este ano eu me formarei em Tecnologia da Informação. Além disso, tenho intere
 Formação Acadêmica:
 
 -Trybe (carregando...)
-- Gestão de Tecnologia da Informação (carregando 3/4)
+- Gestão de Tecnologia da Informação (Concluído 4/4)
 - Curso superior em Letras;
-- Técnico em Meio Ambiente;
-
-👋
-
 
 
 
