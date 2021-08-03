@@ -7,7 +7,7 @@ O meu nome é Kamila. </h2>
 
 	
 
-Eu tenho como objetivo no GitHub aumentar a minha rede de contatos, aprender e ensinar. 
+Eu tenho como objetivo no GitHub conseguir a primeira oportunidade em programação, aumentar a minha rede de contatos, aprender e ensinar. 
 
 
 <h3>Formação Acadêmica: </h3>
