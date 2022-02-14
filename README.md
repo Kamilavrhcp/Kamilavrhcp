@@ -7,8 +7,8 @@ O meu nome é Kamila. </h2>
 
 <h3>Formação Acadêmica: </h3>
 
-<p>:green_heart: Trybe (4/4)</p>
-<p>:green_heart: Gestão de Tecnologia da Informação (Concluído 4/4)</p>
+<p>:green_heart: Trybe</p>
+<p>:green_heart: Gestão de Tecnologia da Informação</p>
 <p>:green_heart: Curso superior em Letras;</p>
 
 
