@@ -3,12 +3,7 @@ O meu nome é Kamila. </h2>
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/68447692/125177428-ff159e80-e1b1-11eb-8fd9-2217a9feef96.png" hspace="20" vspace="5" alt="Avatar estilo Cazuza com violão na mão">
 <p> Sejam bem vindas/vindos ao meu Github. </p> 
 
-<p>Neste espaço eu compartilho os meus projetos pessoais e também feitos na Trybe. </p>
-
-	
-
-Eu tenho como objetivo no GitHub conseguir a primeira oportunidade em programação, aumentar a minha rede de contatos, aprender e ensinar. 
-
+<p>Neste espaço eu compartilho os meus projetos pessoais e também feitos na Trybe. </p>	
 
 <h3>Formação Acadêmica: </h3>
 
