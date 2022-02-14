@@ -9,7 +9,7 @@ O meu nome é Kamila. </h2>
 
 <p>:green_heart: Trybe</p>
 <p>:green_heart: Gestão de Tecnologia da Informação</p>
-<p>:green_heart: Curso superior em Letras;</p>
+<p>:green_heart: Curso superior em Letras</p>
 
 
 <p>Connect with me:</p>
